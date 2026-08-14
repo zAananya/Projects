@@ -1,0 +1,14 @@
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\bin\Debug\net9.0\Orbital simulator prototype.exe
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\bin\Debug\net9.0\Orbital simulator prototype.deps.json
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\bin\Debug\net9.0\Orbital simulator prototype.runtimeconfig.json
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\bin\Debug\net9.0\Orbital simulator prototype.dll
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\bin\Debug\net9.0\Orbital simulator prototype.pdb
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\obj\Debug\net9.0\Orbital simulator prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\obj\Debug\net9.0\Orbital simulator prototype.AssemblyInfoInputs.cache
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\obj\Debug\net9.0\Orbital simulator prototype.AssemblyInfo.cs
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\obj\Debug\net9.0\Orbital simulator prototype.csproj.CoreCompileInputs.cache
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\obj\Debug\net9.0\Orbital simulator prototype.dll
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\obj\Debug\net9.0\refint\Orbital simulator prototype.dll
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\obj\Debug\net9.0\Orbital simulator prototype.pdb
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\obj\Debug\net9.0\Orbital simulator prototype.genruntimeconfig.cache
+C:\Users\super\Source\Repos\Orbital simulator prototype\Orbital simulator prototype\obj\Debug\net9.0\ref\Orbital simulator prototype.dll
